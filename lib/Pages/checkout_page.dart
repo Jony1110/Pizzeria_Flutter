@@ -54,7 +54,7 @@ class CheckoutPage extends StatelessWidget {
                 debugPrint('Botón de generar factura presionado');
                 _printOrDownloadInvoice(cartItems, total);
               },
-              child: const Text('Imprimir Factura'),
+              child: const Text('Pedir'),
             ),
           ],
         ),
