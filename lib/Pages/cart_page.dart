@@ -39,7 +39,7 @@ class CartPage extends StatelessWidget {
                   ),
                 );
               },
-              child: const Text('Generar Factura'),
+              child: const Text('Comprar'),
             ),
           ),
         ],
